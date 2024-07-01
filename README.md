@@ -1,7 +1,7 @@
 
 # 🏌️ SpeedRun Golf ⛳️
 
-Swing into the world of Linea with SpeedRun Golf, a compelling on-chain adventure powered by Scaffold-ETH 🏗️
+Swing into the world of Linea with SpeedRun Golf, a compelling on-chain adventure powered by Scaffold-ETH 🏗️.
 
 It's more than a game - it's an interactive experience where exploring smart contract security, testing protocols and Solidity become part of the gameplay.
 
